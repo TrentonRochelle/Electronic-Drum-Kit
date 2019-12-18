@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kai-morich:usb-serial-for-android:1.7.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/usb-serial-for-android-1.7.0.aar/0a4de3d488e113274765a69ccaba8d45/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/usb-serial-for-android-1.7.0.aar/0a4de3d488e113274765a69ccaba8d45/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kai-morich/usb-serial-for-android/1.7.0/205b52356563559e32cc0b510bb9b93f60770bde/usb-serial-for-android-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

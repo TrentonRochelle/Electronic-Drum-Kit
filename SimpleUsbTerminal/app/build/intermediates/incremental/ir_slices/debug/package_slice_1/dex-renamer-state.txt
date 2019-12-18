@@ -1,0 +1,4 @@
+#Wed Apr 03 15:01:50 PDT 2019
+base.0=C\:\\Users\\Trenton Rochelle\\Coding\\Sensors\\SimpleUsbTerminal\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

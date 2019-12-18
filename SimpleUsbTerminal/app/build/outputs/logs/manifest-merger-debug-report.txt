@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.github.kai-morich:usb-serial-for-android:1.7.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\usb-serial-for-android-1.7.0.aar\0a4de3d488e113274765a69ccaba8d45\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\aecab0194e685ce8daef79175729e23f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\776c1f6b839d34aa2c354fffcec38e7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9280851ce445ad7c310749421c25b093\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cd0c4a0179f74c928e6ebc5c2e559305\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\49f21681bd52aec2ecf451bec516f678\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cb4cebf58324ee660119a6308d6b038a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\92b1d2719d18986d8429f310bebf2a89\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d51ae7130872b8ca95fd023d3ec3ae02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a3f7b6fab23d6aa13d81f9f4db1bc633\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4adefd5225da8a08988cdffb8f674b03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2c934db2343bacede45596457da21026\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\792da6b6a79dae476712373f9376fe04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8357d91152e17b38b4c4762629201744\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fba849973ea74c78ba945e49f93c25cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\68919a1ecda52d261fe65ed112dd8564\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e5d14c80f31a10c7d6dcd928c1dc8cc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eda5357f7b4dd3cebaf27c5c1fda31b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ada98b300bbf7f566d73969654e297e5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c80657bf88471a6247ac0e64f698b668\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2524a8d2bbd56a30cc80261ab99eda52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\16f3e52dd032a85633aee779c17f653f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cc3b84d2021f1b004526fb4a4fd603ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e3aec6d897a853185d9a371dc5a5276d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1ddf7e8eafbad32ccca0c643a59574e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\96bac8d93e734fcabb967d563b993c34\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e219fca3a9e716ed495fcd83ea4840fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ee6a964375ffa9ec06961a0bd480ca7d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b9c530bf705e1d57b6e5ba3956227544\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\df698f163228e22bf3fd34e75e0a1d6b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\263ab8de1ca83feef476ae8492389ea2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:4:5-48
+		INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:6:22-74
+application
+ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:9:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\aecab0194e685ce8daef79175729e23f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\aecab0194e685ce8daef79175729e23f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ada98b300bbf7f566d73969654e297e5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ada98b300bbf7f566d73969654e297e5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c80657bf88471a6247ac0e64f698b668\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c80657bf88471a6247ac0e64f698b668\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ada98b300bbf7f566d73969654e297e5\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:13:9-60
+	android:icon
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:12:9-40
+activity#de.kai_morich.simple_usb_terminal.MainActivity
+ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:14:9-28:20
+	android:label
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:16:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:17:13-67
+	android:name
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:20:27-74
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:22:13-24:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:23:17-90
+	android:name
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:23:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:25:13-27:61
+	android:resource
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:27:17-58
+	android:name
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:26:17-79
+service#de.kai_morich.simple_usb_terminal.SerialService
+ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:29:9-50
+	android:name
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml:29:18-47
+uses-sdk
+INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+MERGED from [com.github.kai-morich:usb-serial-for-android:1.7.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\usb-serial-for-android-1.7.0.aar\0a4de3d488e113274765a69ccaba8d45\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kai-morich:usb-serial-for-android:1.7.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\usb-serial-for-android-1.7.0.aar\0a4de3d488e113274765a69ccaba8d45\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\aecab0194e685ce8daef79175729e23f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\aecab0194e685ce8daef79175729e23f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\776c1f6b839d34aa2c354fffcec38e7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\776c1f6b839d34aa2c354fffcec38e7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9280851ce445ad7c310749421c25b093\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\9280851ce445ad7c310749421c25b093\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cd0c4a0179f74c928e6ebc5c2e559305\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\cd0c4a0179f74c928e6ebc5c2e559305\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\49f21681bd52aec2ecf451bec516f678\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\49f21681bd52aec2ecf451bec516f678\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cb4cebf58324ee660119a6308d6b038a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cb4cebf58324ee660119a6308d6b038a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\92b1d2719d18986d8429f310bebf2a89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\92b1d2719d18986d8429f310bebf2a89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d51ae7130872b8ca95fd023d3ec3ae02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d51ae7130872b8ca95fd023d3ec3ae02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a3f7b6fab23d6aa13d81f9f4db1bc633\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\a3f7b6fab23d6aa13d81f9f4db1bc633\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4adefd5225da8a08988cdffb8f674b03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\4adefd5225da8a08988cdffb8f674b03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2c934db2343bacede45596457da21026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\2c934db2343bacede45596457da21026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\792da6b6a79dae476712373f9376fe04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\792da6b6a79dae476712373f9376fe04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8357d91152e17b38b4c4762629201744\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8357d91152e17b38b4c4762629201744\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fba849973ea74c78ba945e49f93c25cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\fba849973ea74c78ba945e49f93c25cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\68919a1ecda52d261fe65ed112dd8564\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\68919a1ecda52d261fe65ed112dd8564\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e5d14c80f31a10c7d6dcd928c1dc8cc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\e5d14c80f31a10c7d6dcd928c1dc8cc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eda5357f7b4dd3cebaf27c5c1fda31b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\eda5357f7b4dd3cebaf27c5c1fda31b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ada98b300bbf7f566d73969654e297e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ada98b300bbf7f566d73969654e297e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c80657bf88471a6247ac0e64f698b668\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\c80657bf88471a6247ac0e64f698b668\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2524a8d2bbd56a30cc80261ab99eda52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\2524a8d2bbd56a30cc80261ab99eda52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\16f3e52dd032a85633aee779c17f653f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\16f3e52dd032a85633aee779c17f653f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cc3b84d2021f1b004526fb4a4fd603ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\cc3b84d2021f1b004526fb4a4fd603ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e3aec6d897a853185d9a371dc5a5276d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\e3aec6d897a853185d9a371dc5a5276d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1ddf7e8eafbad32ccca0c643a59574e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1ddf7e8eafbad32ccca0c643a59574e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\96bac8d93e734fcabb967d563b993c34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\96bac8d93e734fcabb967d563b993c34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e219fca3a9e716ed495fcd83ea4840fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\e219fca3a9e716ed495fcd83ea4840fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ee6a964375ffa9ec06961a0bd480ca7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ee6a964375ffa9ec06961a0bd480ca7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b9c530bf705e1d57b6e5ba3956227544\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b9c530bf705e1d57b6e5ba3956227544\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\df698f163228e22bf3fd34e75e0a1d6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\df698f163228e22bf3fd34e75e0a1d6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\263ab8de1ca83feef476ae8492389ea2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Trenton Rochelle\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\263ab8de1ca83feef476ae8492389ea2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Trenton Rochelle\Coding\Sensors\SimpleUsbTerminal\app\src\main\AndroidManifest.xml
